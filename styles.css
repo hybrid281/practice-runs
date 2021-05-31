@@ -1,0 +1,19 @@
+html {
+    font-size: 16px;
+}
+
+
+form {
+    background-color:aqua;
+    font-size: 2em;
+    display: flex;
+}
+
+legend {
+    font-style:italic;
+}
+
+fieldset {
+    display: flex;
+    flex-flow: column wrap;
+}
